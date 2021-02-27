@@ -13,8 +13,7 @@ import org.json.simple.parser.ParseException;
 
 public class Settings {
 
-    private static final String defaultFolder = "D://Z/Desktop/wiki/javabot/maya/";
-    //private static final String defaultFolder = "C://StaticFolder/SoBotCanRunFromIDE/Easily/";
+    private static final String defaultFolder = "C://Path/To/Config/";
     public static String destFolder;
 
     public static String token = "";
